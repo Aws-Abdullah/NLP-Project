@@ -1,0 +1,2 @@
+all_outputs/*.keras filter=lfs diff=lfs merge=lfs -text
+all_outputs/*.pkl filter=lfs diff=lfs merge=lfs -text
